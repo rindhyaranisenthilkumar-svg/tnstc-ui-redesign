@@ -1,9 +1,9 @@
-# tnstc-ui-redesign
+
 # TNSTC Website UI Redesign
 
 Redesign of the TNSTC online bus reservation homepage to improve clarity, consistency and visual organization on desktop and mobile.
 
-**Figma:** [PASTE YOUR FIGMA LINK HERE]
+**Figma:** https://www.figma.com/design/RZSSmpKlsJUAOyz3qDqgME/ui-redesign?node-id=0-1&t=9KjRbiP1AO6AaqES-1
 
 ## Original Website
 ![Original TNSTC homepage](original-site.png)
